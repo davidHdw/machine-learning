@@ -3,3 +3,4 @@
 博客：https://blog.csdn.net/perfect1t
 
 1、linear regression  --- 线性回归
+2、logistitc regression --- 逻辑回归
