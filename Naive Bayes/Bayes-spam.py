@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 17 21:35:01 2018
 
-@author: 87955
-"""
+# Bayes-spam.py
 
 import numpy as np
 import Bayes

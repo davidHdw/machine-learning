@@ -4,3 +4,4 @@
 
 1、linear regression  --- 线性回归
 2、logistitc regression --- 逻辑回归
+3、Navie Bayes --- 朴素贝叶斯
